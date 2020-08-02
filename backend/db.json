@@ -1,0 +1,44 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Tecidos Prada",
+      "price": "10.50"
+    },
+    {
+      "id": 2,
+      "name": "Tecidos Oro",
+      "price": "15.50"
+    },
+    {
+      "id": 3,
+      "name": "Tecidos Andreas",
+      "price": "18.50"
+    },
+    {
+      "id": 4,
+      "name": "Tecidos Julios",
+      "price": "20.50"
+    },
+    {
+      "id": 5,
+      "name": "Tecidos Juans",
+      "price": "20.50"
+    },
+    {
+      "id": 6,
+      "name": "Tecidos Andreitas",
+      "price": "20.50"
+    },
+    {
+      "id": 7,
+      "name": "Tecidos Maribel",
+      "price": "20.50"
+    },
+    {
+      "name": "Tecidos Montoya",
+      "price": "24,50",
+      "id": 8
+    }
+  ]
+}
