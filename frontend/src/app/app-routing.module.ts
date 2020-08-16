@@ -17,7 +17,7 @@ const routes: Routes = [
   component: CrudComponent
 },
 {
-  path: "create",
+  path: "product/create",
   component: CreateComponent
 },
 
