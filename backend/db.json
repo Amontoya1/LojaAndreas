@@ -39,6 +39,12 @@
       "name": "Tecidos Montoya",
       "price": "24,50",
       "id": 8
+    },
+    {
+      "name": "Tecidos Montoyas",
+      "price": "28,50",
+      "id": 9
     }
+  
   ]
 }

@@ -24,7 +24,7 @@ import { FormsModule }  from '@angular/forms';
 import  { MatFormFieldModule}  from '@angular/material/form-field';
 import  { MatInputModule }  from '@angular/material/input';
 import { ProductReadComponent } from './component/product/product-read/product-read.component';
-
+import { MatTableModule } from '@angular/material/table';
 
 
 
@@ -48,7 +48,7 @@ import { ProductReadComponent } from './component/product/product-read/product-r
     MatSidenavModule,
     MatCardModule,
     MatListModule,
-
+    MatTableModule,
     MatSnackBarModule,
     HttpClientModule,
     FormsModule,
